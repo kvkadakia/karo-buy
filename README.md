@@ -1,4 +1,4 @@
-## Food Ordering App
+## KaroBuy - Grocery Delivery App
 
 ### Features:
 
